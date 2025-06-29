@@ -1,0 +1,16 @@
+user id,complain id,complain category,complain status,date
+685fde4f12845216e2267f1b,C123,Technical,Resolved,15-Jun-25
+685fde4f12845216e2267f1b,C124,Delivery,Closed,16-Jun-25
+685fdea212845216e2267f20,C125,Billing,Open,17-Jun-25
+685fdea212845216e2267f20,C126,Technical,Resolved,18-Jun-25
+685fde4f12845216e2267f1b,C127,Account,Resolved,19-Jun-25
+685fdf3112845216e2267f27,C128,Delivery,Open,20-Jun-25
+685fdf7712845216e2267f2c,C129,Product Issue,Closed,21-Jun-25
+685fe0b112845216e2267f31,C130,Technical,Closed,22-Jun-25
+685fdf3112845216e2267f27,C131,Technical,Resolved,23-Jun-25
+685fdea212845216e2267f20,C132,Delivery,In Progress,24-Jun-25
+685fe0b112845216e2267f31,C133,Delivery,Closed,25-Jun-25
+685fdf3112845216e2267f27,C134,Product Issue,In Progress,26-Jun-25
+685fdf7712845216e2267f2c,C135,Billing,In Progress,27-Jun-25
+685fe0b112845216e2267f31,C136,Account,In Progress,28-Jun-25
+685fdf7712845216e2267f2c,C137,Account,Open,29-Jun-25

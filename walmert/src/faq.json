@@ -1,0 +1,39 @@
+[
+      {
+        "question": "What are the delivery charges?",
+        "answer": "Delivery is free for orders above ₹500. Below that, a nominal fee of ₹50 may apply."
+      },
+      {
+        "question": "When will I receive my order?",
+        "answer": "Orders are usually delivered within 3–7 business days. You can track your order from the 'My Orders' section."
+      },
+      {
+        "question": "What is your return policy?",
+        "answer": "You can return eligible products within 7 days of delivery. Items must be unused and in original packaging."
+      },
+      {
+        "question": "When will I get my refund?",
+        "answer": "Refunds are processed within 5–7 business days after we receive the returned item."
+      },
+      {
+        "question": "Can I exchange an item instead of returning?",
+        "answer": "Yes, for eligible items, you can choose 'Replacement' instead of 'Refund' during return initiation."
+      },
+      {
+        "question": "How do I know if an item is in stock?",
+        "answer": "Each product page shows current stock availability. If it's out of stock, you can sign up for a restock notification."
+      },
+      {
+        "question": "Do you offer gift wrapping or personalization?",
+        "answer": "Yes, during checkout, you can choose gift wrapping and add a personalized message."
+      },
+      {
+        "question": "Is my personal data safe with you?",
+        "answer": "Yes. We use industry-standard encryption and follow strict data privacy protocols."
+      },
+      {
+        "question": "How can I contact customer support?",
+        "answer": "Chat with us 24/7 via our chatbot, email us, or call our helpline at 1800-XXX-XXXX."
+      }
+    ]
+  
